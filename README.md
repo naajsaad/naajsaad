@@ -8,4 +8,4 @@ I write code in C, JavaScript, HTML5, and CSS. For everyday workflow and product
 
 Feel free to reach out on my [Instagram](https://www.instagram.com/najm00000000/) or [LinkedIn](https://www.linkedin.com/in/najmi-sa-idan-32b869425/). I'm always happy to connect!
 
-"I know it's cliché, but honestly, just keep going." - [Bunii](https://en.wikipedia.org/wiki/Bunii), my biggest inspiration
+> *"I know it's cliché, but honestly, just keep going."*  — [Bunii](https://en.wikipedia.org/wiki/Bunii), my biggest inspiration
